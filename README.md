@@ -1,5 +1,3 @@
-# fyp_lms
-
 Learning Management System Project based on Flutter
 
 ## Getting Started
