@@ -1,4 +1,4 @@
-Learning Management System Project based on Flutter
+Learning Management System Final Year Project(FYP) based on Flutter
 
 ## Getting Started
 
